@@ -21,8 +21,8 @@ while attemps < 100:
     username = input('Enter your username: ')
     password = input('Enter your password: ')
 
-    if username == 'MIDOU' and password =='MIDOU':
-        print('You have successfully logged in Welcome to ZINOU!!')
+    if username == 'SHANKS' and password =='SHANKS':
+        print('You have successfully logged in Welcome to SHANKS!!')
         break
     else:
         print('Incorrect credentials. Check if you have Caps lock on and try again.')
@@ -32,7 +32,7 @@ os.system("clear")
 
 print("""
 \u001b[31m
-	  AUTHOR TOOLS : Team craxsRat
+	  AUTHOR TOOLS : Team Shanks
   _____                    _____       _
  / ____|                  |  __ \     | |
 | |     _ __ __ ___  _____| |__) |__ _| |_
