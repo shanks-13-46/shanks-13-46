@@ -8,7 +8,7 @@ import time
 ###### MESSAGE MIKA ON TOP! #####
 os.system("clear")
 os.system("xdg-open https://discord.gg/8gmRVnRRwV")
-print("\u001b[33m Welcome to craxsRat ddos")
+print("\u001b[33m Welcome to shanks ddos")
 time.sleep(2)
 print("Loading.......")
 os.system("clear")
@@ -33,13 +33,12 @@ os.system("clear")
 print("""
 \u001b[31m
 	  AUTHOR TOOLS : Team Shanks
-  _____                    _____       _
- / ____|                  |  __ \     | |
-| |     _ __ __ ___  _____| |__) |__ _| |_
-| |    | '__/ _` \ \/ / __|  _  // _` | __|
-| |____| | | (_| |>  <\__ \ | \ \ (_| | |_
- \_____|_|  \__,_/_/\_\___/_|  \_\__,_|\__|
-
+_____ _                _        
+ / ____| |              | |       
+| (___ | |__   __ _ _ __| | _____ 
+ \___ \| '_ \ / _` | '__| |/ / __|
+ ____) | | | | (_| | |  |   <\__ \
+|_____/|_| |_|\__,_|_|  |_|\_\___/
 
 """)
 
